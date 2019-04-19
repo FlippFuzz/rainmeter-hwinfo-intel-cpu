@@ -1,4 +1,7 @@
-This Rainmeter skin allows you to view CPU utilization, temperature, frequency and voltage.
+This Rainmeter skin allows you to quickly view CPU utilization, temperature, frequency and voltage.
+
+# Screenshot
+![Screenshot](Sample.PNG)
 
 # Minimum Requirements
 * Rainmeter 4.3
@@ -9,5 +12,3 @@ This Rainmeter skin allows you to view CPU utilization, temperature, frequency a
 # Tested on
 * Windows 10 with Intel Core i5-4670K
 
-# Screenshot
-![Screenshot](Sample.PNG)
