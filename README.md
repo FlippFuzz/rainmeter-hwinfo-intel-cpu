@@ -10,5 +10,5 @@ This Rainmeter skin allows you to quickly view CPU utilization, temperature, fre
 * Intel based CPUs
 
 # Tested on
-* Windows 10 with Intel Core i5-4670K
+* Windows 10 (1809) with Intel Core i5-4670K
 
