@@ -1,0 +1,1 @@
+rainmeter-hwinfo-intel-cpu
