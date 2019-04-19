@@ -7,4 +7,4 @@
 * Windows 10 with Intel Core i5-4670K
 
 # Screenshot
-![Screenshot](Sample.png)
+![Screenshot](Sample.PNG)
